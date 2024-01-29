@@ -7,6 +7,5 @@ Masters in Business Analytics, University of California, Davis
 Data Science Engineer @ startup Vunet Systems 
 - ML pipelines
 
-![Field Experiments in San Francisco] (/assets/img/field_exp.jpg)
 
 
