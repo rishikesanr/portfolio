@@ -13,7 +13,7 @@
 - Designed an internal knowledge base and established key metrics to predict target customers using Python on a large client database with 40 million+ records
 
 
-**Data Science Engineer @ Vunet Systems (Oct 2020 - June 2023)**
+**Data Science Engineer @ Vunet Systems (_Oct 2020 - June 2023_)**
 - Built ML pipelines and data source connectors using Python for analyzing time series data with in-house anomaly detection methods, revealing valuable insights that is overlooked
 - Played a key role in designing and developing vuRCABot with 10x faster incident detection and precise root cause identification
 - Led data orchestration for 2K+ real-time time series using Docker, Airflow, and Grafana for comprehensive clients platform visibility
