@@ -28,7 +28,8 @@
 ### Disease Spread Prediction
 [Github](https://github.com/rishikesanr/Disease-Spread-Prediction)
 
-## Connect with me on my Social
+## Social
+### Connect with me! 
 [LinkedIn](https://www.linkedin.com/in/rishikesanr/)
 [Medium](https://medium.com/@rishikesanr)
 
