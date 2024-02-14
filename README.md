@@ -6,7 +6,7 @@
 - M.S., Business Analytics	| University of California, Davis (_June 2024_)	 			        		
 - B.Tech., Mechanical Engineering | SASTRA Deemed University (_Aug 2019_)
 
-- ## Work Experience
+## Work Experience
 **Data Scientist @ Practicum Project at a Leading B2B Lender (_Sept 2023 - Present_)**
 - Conducted data preparation, exploratory analysis, and fine-tuned supervised models, to predict potential customers and their attributes, allowing the client to potentially reduce third-party loan channel reliance by 10%
 - Applied matching algorithms to extract new features from market data at scale to improve model performance
