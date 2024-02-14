@@ -31,6 +31,7 @@
 ## Social
 ### Connect with me! 
 [LinkedIn](https://www.linkedin.com/in/rishikesanr/)
+
 [Medium](https://medium.com/@rishikesanr)
 
 
