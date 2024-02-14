@@ -29,5 +29,7 @@
 [Github](https://github.com/rishikesanr/Disease-Spread-Prediction)
 
 
+- [Analytics Blog](https://medium.com/@rishikesanr)
+
 
 
