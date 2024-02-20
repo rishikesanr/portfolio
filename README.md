@@ -19,14 +19,13 @@
 - Led data orchestration for 2K+ real-time time series using Docker, Airflow, and Grafana for comprehensive clients platform visibility
 
 ## Projects
-### Cardboard Field Experiment
-[Github](https://github.com/rishikesanr/Field-Experiment-Covid-19-Impact)
+### Cardboard Field Experiment [Github](https://github.com/rishikesanr/Field-Experiment-Covid-19-Impact)
 
-### English Premier League Analytics 
-[Github](https://github.com/rishikesanr/English-Premier-League-Analytics)
+This study explores if the gender of someone holding a cardboard sign influences people's preference for physical or air high fives. With COVID-19, our attitudes toward physical contact have shifted, affecting our high-five choices. Our experiment shows how small visual cues can shape social behavior, with air high fives remaining popular amid ongoing concerns about health and safety. It's thrilling to uncover these insights into how our behavior evolves in response to changing circumstances.
 
-### Disease Spread Prediction
-[Github](https://github.com/rishikesanr/Disease-Spread-Prediction)
+### English Premier League Analytics [Github](https://github.com/rishikesanr/English-Premier-League-Analytics)
+
+This project means a lot to me. When I was watching a Liverpool game in New York, I started thinking about how well fans could guess the outcome. I wanted to look into this further by checking how fans felt before big football matches and using that to guess who would win. Instead of using old player or match stats, I believe I could use the fans sentiments which I consider to be super fun instrumental variable. 
 
 ## Social
 ### Connect with me! 
