@@ -23,13 +23,13 @@
 
 This study explores that with COVID-19, our attitudes toward physical contact could have shifted, affecting our high-five choices. Our experiment shows how small visual cues can shape social behavior, with air high fives remaining popular amid ongoing concerns about health and safety. Also it explores if the gender of someone holding a cardboard sign influences people's preference for physical or air high fives. It's thrilling to uncover these insights into how our behavior evolves in response to changing circumstances.
 
-![Alamo Square, San Francisco](/assets/img/FE.JPEG)
+![Alamo Square, San Francisco](/assets/images/FE.JPEG)
 
 ### [English Premier League Prediction Analytics](https://github.com/rishikesanr/EPL-Prediction-Analytics)
 
 This project means a lot to me. When I was watching a Liverpool game in New York, I started thinking about how well fans could guess the outcome. I wanted to look into this further by checking how fans felt before big football matches and using that to guess who would win. Instead of using old player or match stats, I believe I could use the fans sentiments which I consider to be super fun instrumental variable. 
 
-![11th Street Bar, New York City](/assets/img/liverpool.JPEG)
+![11th Street Bar, New York City](/assets/images/liverpool.JPEG)
 
 ## Social
 ### Connect with me! 
