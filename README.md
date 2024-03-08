@@ -5,8 +5,8 @@
 #### Technologies: PostgreSQL, TimescaleDB, MongoDB, AWS – EC2, EMR, S3,Tableau, Grafana, Airflow, Docker, Git 
 
 ## Education						       		
-- M.S., Business Analytics	      | University of California, Davis (_June 2024_)	 			        		
-- B.Tech., Mechanical Engineering | SASTRA Deemed University (_Aug 2019_)
+- M.S., Business Analytics	      | University of California, Davis (_June 2024_)  |	        		
+- B.Tech., Mechanical Engineering | SASTRA Deemed University (_Aug 2019_)  |
 
 ## Work Experience
 **Data Scientist @ Practicum Project at a Leading B2B Lender, USA (_Sept 2023 - Present_)**
