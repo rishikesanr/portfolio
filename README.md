@@ -1,6 +1,6 @@
 # Business Analytics Grad Student
 
-**Interests**: Statistics, Machine Learningm, Data Analytics, Data Modeling, Data Processing and Pipelines, Automation, Product Development 
+**Interests**: Statistics, Machine Learning, Data Analytics, Data Modeling, Data Processing, ML Pipelines and Automation, Product Development 
 
 **Languages/Frameworks**: SQL, Python, Pandas, Numpy, SciPy, Scikit-learn, PyTorch, TensorFlow, PySpark, BeautifulSoup, Selenium, Shell
 
