@@ -1,8 +1,10 @@
 # Business Analytics Grad Student
 
-**Interests**: Data/Big Data Analytics, ML Pipelines, Product Development 
-**Technical Skills**: Python, Pandas, Numpy, SciPy, Scikit-learn, BeautifulSoup, Selenium, Shell
-**Technologies**: PostgreSQL, TimescaleDB, MongoDB, AWS – EC2, EMR, S3,Tableau, Grafana, Airflow, Docker, Git 
+**Interests**: Statistics, Machine Learningm, Data Analytics, Data Modeling, Data Processing and Pipelines, Automation, Product Development 
+
+**Languages/Frameworks**: SQL, Python, Pandas, Numpy, SciPy, Scikit-learn, PyTorch, TensorFlow, PySpark, BeautifulSoup, Selenium, Shell
+
+**Technologies**: MySQL, PostgreSQL, TimescaleDB, MongoDB, AWS – EC2, EMR, S3,Tableau, Grafana, Airflow, Docker, Git, Kafka  
 
 ## Education						       		
 - M.S., Business Analytics	      | University of California, Davis (_June 2024_)  |	        		
