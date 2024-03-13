@@ -17,9 +17,14 @@
 - Developed and used matching algorithms to enrich additional features from extensive market data with over 40 million rows, enhancing model effectiveness.
 
 **Data Science Engineer @ Vunet Systems, India (_Oct 2020 - June 2023_)**
-- Developed ML pipelines to analyze time series data, devised an original seasonal anomaly detection method, and achieved a 25% higher F1 score compared to benchmarked methods using real datasets from Yahoo.
--	Managed data orchestration for 2,000+ real-time time series analysis at top Indian banks using Dockers, Airflow, and Grafana. 
-- Played a big part in development of vuRCABot, cutting down time to fix root causes by 75%. Also, helped design its core data models, which later boosted sales when used in company’s flagship product vuSmartMaps.
+- Developed ML Pipelines in python for large scale real-time time series, with a focus on identifying characteristic features like seasonal and non-seasonal, and deploying customized anomaly detection techniques
+-	Excellent proficiency in leveraging the time dimension using TimescaleDB and compression techniques resulting in a 10x reduction in read time compared to traditional SQL and an 80% reduction in storage
+- Orchestrated ETL pipelines for leading Indian banks, utilizing TimescaleDB, Docker, Airflow, and Grafana for dashboards to ensure full end-to-end visibility, including hyper-parameter tuning as needed
+- Created a novel Bayesian based predictive anomaly detection technique, outperforming LinkedIn's Luminol with a 50% higher F1 score using real seasonal datasets sourced from Yahoo as reference
+- Significantly contributed to the development of our ML product vuRCABot by collaborating with cross- functional teams, resulting in a 75% reduction in root cause detection time for SREs
+- Played a key role in designing vuRCABot’s core data models, which were subsequently integrated into the company's flagship product vuSmartMaps simplifying initial complexities and enhancing user experience
+- Improved our log analysis product vuBJM with Python feedback mechanisms, enabling users to quickly enrich analyzed data, significantly reducing manual log analysis from days to minutes
+- Implemented pipelines with Kafka topics and ksqlDB streams to effortlessly transfer data from any collection agent to relational databases using Kafka sink
 
 **Research Intern @ Deakin University, Australia (_Jan 2019 - July 2019_)**
 - Employed data analytics methodologies to develop a mathematical model using an Evolutionary Algorithm, focusing on optimizing water coolant channels on a tool based on existing design data.
@@ -28,19 +33,22 @@
 ## Projects
 ### [Cardboard Field Experiment](https://github.com/rishikesanr/Field-Experiment-Cardboard-Sign) 
 
-This study explores that with COVID-19, our attitudes toward physical contact could have shifted, affecting our high-five choices. Our experiment shows how small visual cues can shape social behavior, with air high fives remaining popular amid ongoing concerns about health and safety. Also it explores if the gender of someone holding a cardboard sign influences people's preference for physical or air high fives. It's thrilling to uncover these insights into how our behavior evolves in response to changing circumstances.
+This study explores that with COVID-19, our attitudes toward physical contact could have shifted, affecting our high-five choices. Our experiment shows how small visual cues can shape social behavior, with air high fives remaining popular amid ongoing concerns about health and safety. Also it explores if the gender of someone holding a cardboard sign influences people's preference for physical or air high fives. On high level, we used block experimental design, performed hypothesis and contingency tests to explore
+the significance of physical interactions which could further be related and significant to business, and other promotional activities.
 
 ![Alamo Square, San Francisco](/assets/images/FE.png)
 
 ### [English Premier League Prediction Analytics](https://github.com/rishikesanr/EPL-Prediction-Analytics)
 
-This project means a lot to me. When I was watching a Liverpool game in New York, I started thinking about how well fans could guess the outcome. I wanted to look into this further by checking how fans felt before big football matches and using that to guess who would win. Instead of using old player or match stats, I believe I could use the fans sentiments which I consider to be super fun instrumental variable. This project is still ongoing.
+This project means a lot to me. When I was watching a Liverpool game in New York, I started thinking about how well fans could guess the outcome. I wanted to look into this further by checking how fans felt before big football matches and using that to guess who would win. Instead of using old player or match stats, I believe I could use the fans sentiments which I consider to be super fun instrumental variable. So the idea is to develop sentiment models using NLP techniques, using data from public soccer forums to predict match outcomes based on online sentiment polarities, which has the potential to help in making informed betting decisions by capturing the latest trends before the game.
 
 ![11th Street Bar, New York City](/assets/images/liverpool.png)
 
 ### [Craigslist Content Analysis](https://github.com/rishikesanr/craigslist-content-analysis)
 
-This ongoing project focuses on analyzing the descriptions of free materials listings scraped from Craigslist to uncover valuable insights into the types of items commonly offered for free, trends in popular free materials, and patterns in how these items are described and categorized, especially in the San Francisco Bay Area.
+This ongoing project focuses on analyzing the descriptions of free materials listings scraped from Craigslist to uncover valuable insights into the types of items commonly offered for free, especially in the San Francisco Bay Area, which could offer insights into product popularity shifts and market saturation dynamics.
+
+You can look for more projects in my github :) 
 
 ## Social
 ### Connect with me! 
