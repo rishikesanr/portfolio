@@ -48,7 +48,7 @@ This project means a lot to me. When I was watching a Liverpool game in New York
 
 This ongoing project focuses on analyzing the descriptions of free materials listings scraped from Craigslist to uncover valuable insights into the types of items commonly offered for free, especially in the San Francisco Bay Area, which could offer insights into product popularity shifts and market saturation dynamics.
 
-You can look for more projects in my github :) 
+You can look for other projects in my github :) 
 
 ## Social
 ### Connect with me! 
