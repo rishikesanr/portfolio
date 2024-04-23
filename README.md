@@ -1,10 +1,8 @@
 # Business Analytics Grad Student
 
-**Interests**: Statistics, Machine Learning, Data Analytics, Data Modeling, Data Processing, Deep Learning, ML Pipelines and Automation, Product Development 
-
-**Languages/Frameworks**: SQL, R, Python, Pandas, Numpy, SciPy, Scikit-learn, PyTorch, TensorFlow, PySpark, BeautifulSoup, Selenium, Shell
-
-**Technologies**: MySQL, PostgreSQL, TimescaleDB, MongoDB, AWS – EC2, EMR, S3,Tableau, Grafana, Airflow, Docker, Github, Databricks, Kafka  
+**Programming and Analysis Tools** : Python, R, SQL, Pandas, NumPy, Statsmodels, Scikit-learn, PyTorch, TensorFlow 
+**Data Management and Visualization** : MySQL, PostgreSQL, Timescale, MongoDB, Elastisearch, Spark, Kafka, Grafana, Tableau 
+**Infrastructure and Operations**: Docker, Airflow, AWS, Azure, GCP, Databricks, Git, Unix (Shell), Jira, MLFlow
 
 ## Education						       		
 - M.S., Business Analytics	      | University of California, Davis (_June 2024_)  |	        		
@@ -12,19 +10,18 @@
 
 ## Work Experience
 **Data Scientist @ Practicum Project at a Leading B2B Lender, USA (_Sept 2023 - Present_)**
--	Conducted data preparation, exploratory analysis, and refined supervised models to predict and score future customers, aiming to reduce client reliance on third-party loan channels by 10%.
--	Created a loan application filter using Python, employing an unsupervised model (K-prototypes) with firmo-graphic and performance features.
-- Developed and used matching algorithms to enrich additional features from extensive market data with over 40 million rows, enhancing model effectiveness.
+• Analyzed and synthesized over 40 million Dun & Bradstreet records with internal datasets, using Python to uncover key trends and insights that informed strategic decisions 
+• Applied feature engineering to transform raw data enhancing direct marketing and customer conversion rates 
+• Conducted comprehensive data analysis and model creation to cut client reliance on third-party loan channels by 10% through incorporation of ensemble unsupervised model like XGBoosts
 
 **Data Science Engineer @ Vunet Systems, India (_Oct 2020 - June 2023_)**
-- Developed ML Pipelines in python for large scale real-time time series, with a focus on identifying characteristic features like seasonal and non-seasonal, and deploying customized anomaly detection techniques
--	Excellent proficiency in leveraging the time dimension using TimescaleDB and compression techniques resulting in a 10x reduction in read time compared to traditional SQL and an 80% reduction in storage
-- Orchestrated ETL pipelines for leading Indian banks, utilizing TimescaleDB, Docker, Airflow, and Grafana for dashboards to ensure full end-to-end visibility, including hyper-parameter tuning as needed
-- Created a novel Bayesian based predictive anomaly detection technique, outperforming LinkedIn's Luminol with a 50% higher F1 score using real seasonal datasets sourced from Yahoo as reference
-- Significantly contributed to the development of our ML product vuRCABot by collaborating with cross- functional teams, resulting in a 75% reduction in root cause detection time for SREs
-- Played a key role in designing vuRCABot’s core data models, which were subsequently integrated into the company's flagship product vuSmartMaps simplifying initial complexities and enhancing user experience
-- Improved our log analysis product vuBJM with Python feedback mechanisms, enabling users to quickly enrich analyzed data, significantly reducing manual log analysis from days to minutes
-- Implemented pipelines with Kafka topics and ksqlDB streams to effortlessly transfer data from any collection agent to relational databases using Kafka sink
+•	Led the ETL process for top Indian banks using TimescaleDB and Docker, integrating Airflow for automation and Grafana dashboards to enable comprehensive oversight
+•	Leveraged TimescaleDB with efficient compression strategies, achieving a tenfold decrease in data retrieval time and reducing storage needs by 80%
+• Designed intricate ML pipelines with Airflow DAGs, establishing rules to streamline workflow execution and enhance efficiency
+•	Designed real-time data visualization dashboards for Unified Payment Interface platforms, interpreting billions of transactions monthly, which slashed client system downtime by 10%
+•	Partnered with business and customer service teams to track critical KPIs, devising a statistical alert system that cut down non-essential alerts by 20%
+•	Played a pivotal role in enhancing our vuRCABot machine learning tool, aiding cross-functional team efforts that cut down on time to identify incident root causes by 75% for site reliability engineers
+• Implemented pipelines with Kafka topics and ksqlDB streams to effortlessly transfer data from any collection agent to relational databases using Kafka sink
 
 **Research Intern @ Deakin University, Australia (_Jan 2019 - July 2019_)**
 - Employed data analytics methodologies to develop a mathematical model using an Evolutionary Algorithm, focusing on optimizing water coolant channels on a tool based on existing design data.
@@ -44,9 +41,9 @@ This project means a lot to me. When I was watching a Liverpool game in New York
 
 ![11th Street Bar, New York City](/assets/images/liverpool.png)
 
-### [Craigslist Content Analysis](https://github.com/rishikesanr/craigslist-content-analysis)
+### [San Francisco Vision Zero](https://github.com/rishikesanr/San-Francisco-Vision-Zero)
 
-This ongoing project focuses on analyzing the descriptions of free materials listings scraped from Craigslist to uncover valuable insights into the types of items commonly offered for free, especially in the San Francisco Bay Area, which could offer insights into product popularity shifts and market saturation dynamics.
+Finalist in the hackathon organized by City and County of San Francisco, analyzed San Francisco traffic accidents data and engineered features for a logistic regression model, enhancing Vision Zero initiatives with actionable, data-driven policy recommendations.
 
 You can look for other projects in my github :) 
 
