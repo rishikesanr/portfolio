@@ -1,7 +1,9 @@
 # Business Analytics Grad Student
 
-**Programming and Analysis Tools** : Python, R, SQL, Pandas, NumPy, Statsmodels, Scikit-learn, PyTorch, TensorFlow 
-**Data Management and Visualization** : MySQL, PostgreSQL, Timescale, MongoDB, Elastisearch, Spark, Kafka, Grafana, Tableau 
+**Programming and Analysis Tools** : Python, R, SQL, Pandas, NumPy, Statsmodels, Scikit-learn, PyTorch, TensorFlow
+
+**Data Management and Visualization** : MySQL, PostgreSQL, Timescale, MongoDB, Elastisearch, Spark, Kafka, Grafana, Tableau
+
 **Infrastructure and Operations**: Docker, Airflow, AWS, Azure, GCP, Databricks, Git, Unix (Shell), Jira, MLFlow
 
 ## Education						       		
