@@ -12,18 +12,18 @@
 
 ## Work Experience
 **Data Scientist @ Practicum Project at a Leading B2B Lender, USA (_Sept 2023 - Present_)**
-• Analyzed and synthesized over 40 million Dun & Bradstreet records with internal datasets, using Python to uncover key trends and insights that informed strategic decisions 
-• Applied feature engineering to transform raw data enhancing direct marketing and customer conversion rates 
-• Conducted comprehensive data analysis and model creation to cut client reliance on third-party loan channels by 10% through incorporation of ensemble unsupervised model like XGBoosts
+- Analyzed and synthesized over 40 million Dun & Bradstreet records with internal datasets, using Python to uncover key trends and insights that informed strategic decisions 
+- Applied feature engineering to transform raw data enhancing direct marketing and customer conversion rates 
+- Conducted comprehensive data analysis and model creation to cut client reliance on third-party loan channels by 10% through incorporation of ensemble unsupervised model like XGBoosts
 
 **Data Science Engineer @ Vunet Systems, India (_Oct 2020 - June 2023_)**
-•	Led the ETL process for top Indian banks using TimescaleDB and Docker, integrating Airflow for automation and Grafana dashboards to enable comprehensive oversight
-•	Leveraged TimescaleDB with efficient compression strategies, achieving a tenfold decrease in data retrieval time and reducing storage needs by 80%
-• Designed intricate ML pipelines with Airflow DAGs, establishing rules to streamline workflow execution and enhance efficiency
-•	Designed real-time data visualization dashboards for Unified Payment Interface platforms, interpreting billions of transactions monthly, which slashed client system downtime by 10%
-•	Partnered with business and customer service teams to track critical KPIs, devising a statistical alert system that cut down non-essential alerts by 20%
-•	Played a pivotal role in enhancing our vuRCABot machine learning tool, aiding cross-functional team efforts that cut down on time to identify incident root causes by 75% for site reliability engineers
-• Implemented pipelines with Kafka topics and ksqlDB streams to effortlessly transfer data from any collection agent to relational databases using Kafka sink
+- Led the ETL process for top Indian banks using TimescaleDB and Docker, integrating Airflow for automation and Grafana dashboards to enable comprehensive oversight
+- Leveraged TimescaleDB with efficient compression strategies, achieving a tenfold decrease in data retrieval time and reducing storage needs by 80%
+- Designed intricate ML pipelines with Airflow DAGs, establishing rules to streamline workflow execution and enhance efficiency
+- Designed real-time data visualization dashboards for Unified Payment Interface platforms, interpreting billions of transactions monthly, which slashed client system downtime by 10%
+- Partnered with business and customer service teams to track critical KPIs, devising a statistical alert system that cut down non-essential alerts by 20%
+- Played a pivotal role in enhancing our vuRCABot machine learning tool, aiding cross-functional team efforts that cut down on time to identify incident root causes by 75% for site reliability engineers
+- Implemented pipelines with Kafka topics and ksqlDB streams to effortlessly transfer data from any collection agent to relational databases using Kafka sink
 
 **Research Intern @ Deakin University, Australia (_Jan 2019 - July 2019_)**
 - Employed data analytics methodologies to develop a mathematical model using an Evolutionary Algorithm, focusing on optimizing water coolant channels on a tool based on existing design data.
